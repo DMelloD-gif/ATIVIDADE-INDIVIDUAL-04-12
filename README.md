@@ -2,6 +2,8 @@
 ---
 
 #  Limão do Vale – App de Venda e Entrega de Sucos
+<img width="89" height="87" alt="image" src="https://github.com/user-attachments/assets/347aa6a1-faaf-44a8-aa77-0932aa25077e" />
+
 
 ##  Descrição do Projeto
 O Limão do Vale é um site de venda e entrega de sucos naturais, oferecendo sabores frescos e feitos com ingredientes selecionados. 
