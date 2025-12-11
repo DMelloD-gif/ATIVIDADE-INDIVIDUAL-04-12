@@ -12,18 +12,14 @@ Saúde e sabor entregues à sua porta.
 ##  Funcionalidades
 
 ###  Catálogo de Sucos
-- Lista completa de sabores disponíveis  
+- Lista de sabores disponíveis  
 - Detalhes do produto (descrição, preço, imagem)
 
 
 ###  Sistema de Pedidos
-- Finalização do pedido  
+- Comprar  
 - Cadastro de endereço  
 
-
-###  Acompanhamento de Entrega
-- Status do pedido em tempo real  
-- Atualizações automáticas
 
 ###  Área do Usuário
 - Cadastro e login  
@@ -33,11 +29,11 @@ Saúde e sabor entregues à sua porta.
 ---
 
 ##  Tecnologias Utilizadas
-Swagger;
-Render;
-Vscode;
-FlutterFlow;
-google docs (documentação)
+- Swagger
+- Render
+- Vscode
+- FlutterFlow
+- google docs (documentação)
 
 
 ---
