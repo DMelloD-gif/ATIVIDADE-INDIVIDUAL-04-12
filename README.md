@@ -60,11 +60,11 @@ Saúde e sabor entregues à sua porta.
 
 
 ###  Tela de Dados
-<img width="349" height="756" alt="image" src="https://github.com/user-attachments/assets/4b53d336-a214-4ee2-a708-949a8a2aab34" />
+<img width="346" height="759" alt="image" src="https://github.com/user-attachments/assets/55c77ed9-29ad-4291-be30-07385131ad81" />
 
 
 ###  Tela de Alterar Dados
-<img width="347" height="758" alt="image" src="https://github.com/user-attachments/assets/a982e10c-d15c-47c6-b26b-e511ab1cab92" />
+<img width="344" height="755" alt="image" src="https://github.com/user-attachments/assets/6dafb7d8-fae8-4485-b30c-fa1b9199f699" />
 
 
 ###  Tela de Endereço
